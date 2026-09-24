@@ -19,3 +19,4 @@ public class Welcomer{
                 return "Goodbye, hunter!";
 	}
 }
+//
